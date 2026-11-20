@@ -1,0 +1,20 @@
+[project]
+name = "underdamped"
+version = "0.1.0"
+description = "Consistent Projection of Langevin Dynamics: Preserving Thermodynamics and Kinetics in Coarse-Grained Models"
+readme = "readme.md"
+requires-python = ">=3.12"
+dependencies = [
+    "h5py>=3.13.0",
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.3",
+    "numpy==2.2.5",
+    "pandas>=2.2.3",
+    "scikit-learn==1.7.0",
+    "scipy>=1.15.3",
+    "torch==2.5.0",
+    "torchdiffeq==0.2.5",
+    "tqdm>=4.67.1",
+    "wandb>=0.21.0",
+]

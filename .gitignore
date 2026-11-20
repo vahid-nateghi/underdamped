@@ -1,0 +1,7 @@
+__pycache__
+.venv
+.figures
+data/__pycache__
+thermo/__pycache__
+uv.lock
+util/__pycache__
